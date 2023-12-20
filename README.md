@@ -1,4 +1,4 @@
-# blog
+# User management
 
 ## Project setup
 ```
