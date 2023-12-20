@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "Sahana",
+      "email": "sahana@gamil.com",
+      "password": "sahana123",
+      "id": 2
+    },
+    {
+      "name": "hanumant",
+      "email": "abc",
+      "password": "abc",
+      "id": 4
+    },
+    {
+      "name": "Nandini",
+      "email": "Nandini@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "Radha",
+      "email": "Radha@gmail.com",
+      "password": "Radha123",
+      "id": 8
+    },
+    {
+      "name": "Vihan",
+      "email": "xyz",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "Ram ",
+      "email": "ram@gmail.com",
+      "password": "123",
+      "id": 17
+    },
+    {
+      "name": "veena",
+      "email": "veenab@gmail.com",
+      "password": "veena123",
+      "id": 28
+    },
+    {
+      "name": "veena",
+      "email": "veenab@gmail.com",
+      "password": "veena123",
+      "id": 29
+    },
+    {
+      "name": "Suman",
+      "email": "suman@gmail.com",
+      "password": "suman123",
+      "id": 31
+    },
+    {
+      "name": "Ratan",
+      "email": "ratan@gmail.com",
+      "password": "ratan",
+      "id": 32
+    },
+    {
+      "name": "etyggf",
+      "email": "cfdfds",
+      "password": "dfdtdrs",
+      "id": 33
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 34
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 35
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Pizza hut",
+      "address": "hubli",
+      "contact": 333333,
+      "id": 3
+    },
+    {
+      "name": "Royal Ritz",
+      "address": "Amaragola",
+      "contact": "44444448",
+      "id": 4
+    },
+    {
+      "name": "RCB",
+      "address": "Delhi",
+      "contact": "12334",
+      "id": 5
+    },
+    {
+      "name": "burger center",
+      "address": "hubli",
+      "contact": "11263748",
+      "id": 7
+    }
+  ]
+}
